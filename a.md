@@ -1,2 +1,0 @@
-hello jirengu
-hello world
